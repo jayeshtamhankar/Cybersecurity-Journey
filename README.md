@@ -4,7 +4,7 @@ Welcome to my Cybersecurity Journey! This repository is dedicated to documenting
 
 ## About Me
 
-I'm **Jayesh TAmhankar**, a passionate front-end web developer with a keen interest in crafting beautiful and user-friendly web experiences.
+I'm **Jayesh Tamhankar**, a passionate front-end web developer with a keen interest in crafting beautiful and user-friendly web experiences.
 
 I encountered a significant setback when one of my websites fell victim to a cyber attack. The experience was eye-opening and made me realize the critical importance of cybersecurity in today's digital landscape. Determined to prevent such incidents in the future and safeguard not only my own projects but also those of others, I've embarked on a journey to learn cybersecurity from the ground up.
 
