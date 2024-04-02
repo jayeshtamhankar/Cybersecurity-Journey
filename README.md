@@ -1,6 +1,6 @@
 ## Cybersecurity-Journey
 
-Welcome to my Cybersecurity Journey! This repository is dedicated to documenting my cybersecurity journey. During this Cybersecurity Journey, I will upload everything I learn.
+**Welcome** to my Cybersecurity Journey! This repository is dedicated to documenting my cybersecurity journey. During this Cybersecurity Journey, I will upload everything I learn.
 
 ## About Me
 
